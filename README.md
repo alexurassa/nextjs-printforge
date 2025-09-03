@@ -1,3 +1,11 @@
+## NextJS PrintForge Project
+<img width="1857" height="954" alt="image" src="https://github.com/user-attachments/assets/fc19037c-ae48-4dd0-bd00-cb0beca9f547" />
+
+
+## Acknoledgement
+This project is developed in a learning process of learning NextJS from [scrimba course](scrimba.com) called [Learn NextJS](https://scrimba.com/learn-nextjs-c02moisq6a)
+
+## Installation
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
