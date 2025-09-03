@@ -1,7 +1,5 @@
 import HeroImageSquare from "@/public/hero-image.png";
-import Image from 'next/image'
-
-console.log(HeroImageSquare);
+import Image from "next/image";
 
 export default function AboutPage() {
   return (

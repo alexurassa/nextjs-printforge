@@ -1,8 +1,12 @@
 import modelsData from "@/app/data/models.json";
-import { Model } from "../types";
+import { Category, Model } from "../types";
 
-export async function getAllModels() {
+export async function getModels(category?: Category) {
   // where we write the function to fetch all models
+  const filteredData = [...modelsData];
+  if (category) {
+    return filteredData.filter((model) => model.category === category.slug);
+  }
   return modelsData;
 }
 
