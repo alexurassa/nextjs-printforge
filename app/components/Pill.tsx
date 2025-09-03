@@ -1,3 +1,5 @@
+import { PillProps } from "@/app/types";
+
 export default function Pill({ children, className = "" }: PillProps) {
   return (
     <span
